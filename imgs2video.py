@@ -1,5 +1,5 @@
 import cv2
-
+#test
 fps = 15
 size = (1920, 1080)
 videowriter = cv2.VideoWriter("/home/kuangrx/TopVT/video/test_0003.avi", cv2.VideoWriter_fourcc('M', 'J', 'P', 'G'), fps, size)
